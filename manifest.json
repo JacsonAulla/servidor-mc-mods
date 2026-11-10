@@ -11,6 +11,16 @@
       "md5": "76b40d407b6bf0257dd1dab6d3d395d5"
     },
     {
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/curios-forge-5.14.1%2B1.20.1.jar",
+      "md5": "2fdcc97cbc66c4b2492b407c792e7159"
+    },
+    {
+      "name": "CustomSkinLoader_Universal-15.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/CustomSkinLoader_Universal-15.1.jar",
+      "md5": "6d417b41f644d30b9b42b117087c68c5"
+    },
+    {
       "name": "kubejs-forge-2001.6.5-build.26.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/kubejs-forge-2001.6.5-build.26.jar",
       "md5": "64ee6615f19fb9b2b11fee8b7385eaaf"
