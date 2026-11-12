@@ -51,6 +51,11 @@
       "md5": "64ee6615f19fb9b2b11fee8b7385eaaf"
     },
     {
+      "name": "letsdo-API-fabric-1.2.15-fabric.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/letsdo-API-fabric-1.2.15-fabric.jar",
+      "md5": "572b3414c6e93d6679f6e89a2ae49995"
+    },
+    {
       "name": "letsdo-brewery-forge-1.1.9.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/letsdo-brewery-forge-1.1.9.jar",
       "md5": "74574ee4a0d8303f37ced2a8bc846584"
