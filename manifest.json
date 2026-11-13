@@ -46,6 +46,11 @@
       "md5": "b1c7ca164ccb5d38089f54fe3714a5b3"
     },
     {
+      "name": "jei-1.20.1-forge-15.74.0.234.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/jei-1.20.1-forge-15.74.0.234.jar",
+      "md5": "1776262e184bcc5ec265b30987efa70f"
+    },
+    {
       "name": "kubejs-forge-2001.6.5-build.26.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/kubejs-forge-2001.6.5-build.26.jar",
       "md5": "64ee6615f19fb9b2b11fee8b7385eaaf"
