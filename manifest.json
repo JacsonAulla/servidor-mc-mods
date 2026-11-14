@@ -41,6 +41,11 @@
       "md5": "9a3d884e073eb6791be3fbcafd38f2b2"
     },
     {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "md5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+    },
+    {
       "name": "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
       "md5": "6bd718c5cecbf7b0568f8966a310d105"
@@ -79,6 +84,11 @@
       "name": "jei-1.20.1-forge-15.74.0.234.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/jei-1.20.1-forge-15.74.0.234.jar",
       "md5": "1776262e184bcc5ec265b30987efa70f"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/kotlinforforge-4.12.0-all.jar",
+      "md5": "d6a40dede74edbe646b34a1bafd53b4d"
     },
     {
       "name": "kubejs-forge-2001.6.5-build.26.jar",
@@ -139,6 +149,11 @@
       "name": "modernfix-forge-5.27.93-mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/modernfix-forge-5.27.93-mc1.20.1.jar",
       "md5": "271be492b95b343e9aa1a195a4aeda53"
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/oculus-mc1.20.1-1.8.0.jar",
+      "md5": "1dd891634ac21591b5a692471f112572"
     },
     {
       "name": "Patchouli-1.20.1-85-FORGE.jar",
