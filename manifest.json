@@ -1,6 +1,16 @@
 {
   "mods": [
     {
+      "name": "Apotheosis-1.20.1-7.4.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Apotheosis-1.20.1-7.4.8.jar",
+      "md5": "db02304c99d20ff51d4c2427d33c9044"
+    },
+    {
+      "name": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/ApothicAttributes-1.20.1-1.3.7.jar",
+      "md5": "d4f8d1945416d5150cd67d27469b5ce9"
+    },
+    {
       "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
       "md5": "dae63cea9c951dda542a4005ceef3953"
@@ -36,6 +46,11 @@
       "md5": "6bd718c5cecbf7b0568f8966a310d105"
     },
     {
+      "name": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "md5": "82f3fc15d2b48e0bde064704e76a849a"
+    },
+    {
       "name": "FarmersDelight-1.20.1-1.3.4.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/FarmersDelight-1.20.1-1.3.4.jar",
       "md5": "a61302a31849ad9c37c6ac6e59268b75"
@@ -44,6 +59,21 @@
       "name": "FarmersStructures-1.0.4-1.20.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/FarmersStructures-1.0.4-1.20.jar",
       "md5": "b1c7ca164ccb5d38089f54fe3714a5b3"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/ferritecore-6.0.1-forge.jar",
+      "md5": "f52f538207a4829d7060550092ce2383"
+    },
+    {
+      "name": "fzzy_config-0.7.7+1.20.1+forge.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "md5": "6e550632cf60cfac2ad0ce4b7de8d4e5"
+    },
+    {
+      "name": "Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "md5": "a53aade6b5915ebe8357abb68cf1f778"
     },
     {
       "name": "jei-1.20.1-forge-15.74.0.234.jar",
@@ -76,6 +106,51 @@
       "md5": "bf692e0100772cfa90b9878a38c1f28a"
     },
     {
+      "name": "lionfishapi-3.0.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/lionfishapi-3.0.jar",
+      "md5": "76af08dd2f58d5557d13162d855f4cc9"
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.31.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/L_Enders_Cataclysm-3.31.jar",
+      "md5": "a296c93419f679f0da7100da6e6e35af"
+    },
+    {
+      "name": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/majrusz-library-forge-1.20.1-7.0.8.jar",
+      "md5": "f41b4aea81b1e3a1538a1beace7f6c7d"
+    },
+    {
+      "name": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+      "md5": "0c7904c13caf349c515270a66356fa09"
+    },
+    {
+      "name": "majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "md5": "15c6c8ab654366a4c2521002509f95cd"
+    },
+    {
+      "name": "MaxHealthFix-Forge-1.20.1-12.0.4.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/MaxHealthFix-Forge-1.20.1-12.0.4.jar",
+      "md5": "3f0c51e3a1a2405c45bca7303383c50b"
+    },
+    {
+      "name": "modernfix-forge-5.27.93-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/modernfix-forge-5.27.93-mc1.20.1.jar",
+      "md5": "271be492b95b343e9aa1a195a4aeda53"
+    },
+    {
+      "name": "Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Patchouli-1.20.1-85-FORGE.jar",
+      "md5": "78bd223d069fa9491e940d99a8f426b3"
+    },
+    {
+      "name": "Placebo-1.20.1-8.6.3.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Placebo-1.20.1-8.6.3.jar",
+      "md5": "13133ab9989e8474931cd7a86bd19cc5"
+    },
+    {
       "name": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
       "md5": "1f4c3135bc702e4c6e7e9b8ec2611ee7"
@@ -89,6 +164,16 @@
       "name": "rusticdelight-forge-1.20.1-1.7.0.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/rusticdelight-forge-1.20.1-1.7.0.jar",
       "md5": "f32fe1c209aeed3df7c3bfe6242fadb1"
+    },
+    {
+      "name": "simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "md5": "c2b4a539bfcc47b714c40d24268a0ecc"
+    },
+    {
+      "name": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "md5": "4221463739c9cf75400968ded0aec4d4"
     },
     {
       "name": "sophisticatedbackpacks-1.20.1-3.26.19.2239.jar",
