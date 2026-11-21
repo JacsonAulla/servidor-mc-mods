@@ -81,6 +81,11 @@
       "md5": "5fbc84c81cff26ba2d49c8ac7647f9e4"
     },
     {
+      "name": "mezz_config-1.20.1-forge-0.7.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/mezz_config-1.20.1-forge-0.7.1.jar",
+      "md5": "89d8d8f4b587c5a64cd9d2f5fab0dddd"
+    },
+    {
       "name": "modernfix-forge-5.28.0-mc1.20.1.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/modernfix-forge-5.28.0-mc1.20.1.jar",
       "md5": "d26cb8a0caa3529cdb251d91e551bb10"
