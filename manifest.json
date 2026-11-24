@@ -41,11 +41,6 @@
       "md5": "a61302a31849ad9c37c6ac6e59268b75"
     },
     {
-      "name": "immersiveores-1.20.1-0.9.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/immersiveores-1.20.1-0.9.jar",
-      "md5": "dc4657a5d2fb2e573a6a13597ff1343d"
-    },
-    {
       "name": "Jade-1.20.1-Forge-11.13.3.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Jade-1.20.1-Forge-11.13.3.jar",
       "md5": "a53aade6b5915ebe8357abb68cf1f778"
@@ -79,11 +74,6 @@
       "name": "nethersdelight-1.20.1-4.0.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/nethersdelight-1.20.1-4.0.jar",
       "md5": "0d8e8162742fef314467ab1bdaac67b0"
-    },
-    {
-      "name": "onlyhammersandexcavators-1.20.1-0.8.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/onlyhammersandexcavators-1.20.1-0.8.jar",
-      "md5": "683f124c6e47007a0486650734ca7621"
     },
     {
       "name": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
