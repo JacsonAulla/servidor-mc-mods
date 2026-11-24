@@ -66,6 +66,11 @@
       "md5": "15c6c8ab654366a4c2521002509f95cd"
     },
     {
+      "name": "mezz_config-1.20.1-forge-0.7.1.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/mezz_config-1.20.1-forge-0.7.1.jar",
+      "md5": "89d8d8f4b587c5a64cd9d2f5fab0dddd"
+    },
+    {
       "name": "miners_delight-1.20.1-1.4.5-backport.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/miners_delight-1.20.1-1.4.5-backport.jar",
       "md5": "cfc550c58340e2b8e68db48fdf951bde"
@@ -81,9 +86,19 @@
       "md5": "683f124c6e47007a0486650734ca7621"
     },
     {
+      "name": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "md5": "1f4c3135bc702e4c6e7e9b8ec2611ee7"
+    },
+    {
       "name": "sophisticatedbackpacks-1.20.1-3.26.22.2264.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/sophisticatedbackpacks-1.20.1-3.26.22.2264.jar",
       "md5": "67913966bf8d36715dcbdb7b94da53dd"
+    },
+    {
+      "name": "sophisticatedcore-1.20.1-1.5.40.2493.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/sophisticatedcore-1.20.1-1.5.40.2493.jar",
+      "md5": "80a215e2e387de724c5dcaed994073d2"
     }
   ],
   "resourcepacks": [],
