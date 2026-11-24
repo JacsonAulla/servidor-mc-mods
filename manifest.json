@@ -1,14 +1,14 @@
 {
   "mods": [
     {
-      "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
-      "md5": "dae63cea9c951dda542a4005ceef3953"
-    },
-    {
       "name": "caelus-forge-3.2.0+1.20.1.jar",
       "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/caelus-forge-3.2.0%2B1.20.1.jar",
       "md5": "e37854c44b1849b753afc4a205f31b46"
+    },
+    {
+      "name": "create-1.20.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/create-1.20.1-6.0.8.jar",
+      "md5": "6ebc5c57638c1678359eac65b924c310"
     },
     {
       "name": "curios-forge-5.14.1+1.20.1.jar",
@@ -16,14 +16,9 @@
       "md5": "2fdcc97cbc66c4b2492b407c792e7159"
     },
     {
-      "name": "diet-forge-2.1.1+1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/diet-forge-2.1.1%2B1.20.1.jar",
-      "md5": "9a3d884e073eb6791be3fbcafd38f2b2"
-    },
-    {
-      "name": "Dungeon Crawl-1.20.1-2.3.15.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Dungeon%20Crawl-1.20.1-2.3.15.jar",
-      "md5": "f53b840d17a5805630ec199087babe4b"
+      "name": "displaydelight-1.7.0.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/displaydelight-1.7.0.jar",
+      "md5": "3044fc6236cdf15c20da48addafaee79"
     },
     {
       "name": "elytraslot-forge-6.4.4+1.20.1.jar",
@@ -31,14 +26,14 @@
       "md5": "54fd8868bbff9fc88befe9b32555dfe8"
     },
     {
-      "name": "embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
-      "md5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+      "name": "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+      "md5": "6bd718c5cecbf7b0568f8966a310d105"
     },
     {
-      "name": "ends_delight-2.6.1+forge.1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/ends_delight-2.6.1%2Bforge.1.20.1.jar",
-      "md5": "f078440f68f6273419fda69f21a8bd2c"
+      "name": "endersdelight-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/endersdelight-1.1.4.jar",
+      "md5": "371dde9de7acfc6653fcffc343e544d5"
     },
     {
       "name": "FarmersDelight-1.20.1-1.3.4.jar",
@@ -46,54 +41,34 @@
       "md5": "a61302a31849ad9c37c6ac6e59268b75"
     },
     {
-      "name": "ferritecore-6.0.1-forge.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/ferritecore-6.0.1-forge.jar",
-      "md5": "f52f538207a4829d7060550092ce2383"
+      "name": "immersiveores-1.20.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/immersiveores-1.20.1-1.0.2.jar",
+      "md5": "c52ce3d8ed777af50d324699ff7de433"
     },
     {
-      "name": "functionalstorage-1.20.1-1.2.14.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/functionalstorage-1.20.1-1.2.14.jar",
-      "md5": "e1a6343188bfb5e587dc879c49825702"
+      "name": "Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "md5": "a53aade6b5915ebe8357abb68cf1f778"
     },
     {
-      "name": "jei-1.20.1-forge-15.75.0.239.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/jei-1.20.1-forge-15.75.0.239.jar",
-      "md5": "32c380b9918aed722ce084cbfc936550"
+      "name": "jei-1.20.1-forge-15.75.0.242.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/jei-1.20.1-forge-15.75.0.242.jar",
+      "md5": "7772a2536efab6b5a5db2d9e97e0d0cd"
     },
     {
-      "name": "JustEnoughMekanismMultiblocks-1.20.1-4.27.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/JustEnoughMekanismMultiblocks-1.20.1-4.27.jar",
-      "md5": "c62d577d0c8534aff150d0075982e104"
+      "name": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/majrusz-library-forge-1.20.1-7.0.8.jar",
+      "md5": "f41b4aea81b1e3a1538a1beace7f6c7d"
     },
     {
-      "name": "Mekanism-1.20.1-10.4.16.80.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/Mekanism-1.20.1-10.4.16.80.jar",
-      "md5": "3791fb5cf1e8b6f583d3a00d5115d1ee"
+      "name": "majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "md5": "15c6c8ab654366a4c2521002509f95cd"
     },
     {
-      "name": "MekanismGenerators-1.20.1-10.4.16.80.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/MekanismGenerators-1.20.1-10.4.16.80.jar",
-      "md5": "5ecedb27379b4543b28c0860f9c2fbf4"
-    },
-    {
-      "name": "MekanismTools-1.20.1-10.4.16.80.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/MekanismTools-1.20.1-10.4.16.80.jar",
-      "md5": "5fbc84c81cff26ba2d49c8ac7647f9e4"
-    },
-    {
-      "name": "mezz_config-1.20.1-forge-0.7.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/mezz_config-1.20.1-forge-0.7.1.jar",
-      "md5": "89d8d8f4b587c5a64cd9d2f5fab0dddd"
-    },
-    {
-      "name": "modernfix-forge-5.28.0-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/modernfix-forge-5.28.0-mc1.20.1.jar",
-      "md5": "d26cb8a0caa3529cdb251d91e551bb10"
-    },
-    {
-      "name": "MoreMekanismProcessing-1.20.1-4.5.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/MoreMekanismProcessing-1.20.1-4.5.jar",
-      "md5": "23e205bd5ed18795aeee3d05d5b5bd67"
+      "name": "miners_delight-1.20.1-1.4.5-backport.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/miners_delight-1.20.1-1.4.5-backport.jar",
+      "md5": "cfc550c58340e2b8e68db48fdf951bde"
     },
     {
       "name": "nethersdelight-1.20.1-4.0.jar",
@@ -101,34 +76,14 @@
       "md5": "0d8e8162742fef314467ab1bdaac67b0"
     },
     {
-      "name": "oceansdelight-1.0.2-1.20.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/oceansdelight-1.0.2-1.20.jar",
-      "md5": "eaa8c0ba3771042829fd5396ad8b5e06"
+      "name": "onlyhammersandexcavators-1.20.1-0.8.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/onlyhammersandexcavators-1.20.1-0.8.jar",
+      "md5": "683f124c6e47007a0486650734ca7621"
     },
     {
-      "name": "sophisticatedbackpacks-1.20.1-3.26.19.2239.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/sophisticatedbackpacks-1.20.1-3.26.19.2239.jar",
-      "md5": "a9902cd8fe0e58ac405e4fe978534664"
-    },
-    {
-      "name": "sophisticatedcore-1.20.1-1.5.29.2459.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/sophisticatedcore-1.20.1-1.5.29.2459.jar",
-      "md5": "2105fb4ada0a87b089416ee0f36d1c80"
-    },
-    {
-      "name": "titanium-1.20.1-3.8.37.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/titanium-1.20.1-3.8.37.jar",
-      "md5": "d3a2c10ee96a61684f22523284f65dc9"
-    },
-    {
-      "name": "YungsApi-1.20-Forge-4.0.6.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/YungsApi-1.20-Forge-4.0.6.jar",
-      "md5": "fe79f43dba8edbb8ede99f4e358e5b0c"
-    },
-    {
-      "name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-      "md5": "2de2f1be8f528ad139003bb5c73d49f3"
+      "name": "sophisticatedbackpacks-1.20.1-3.26.22.2264.jar",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/mods/sophisticatedbackpacks-1.20.1-3.26.22.2264.jar",
+      "md5": "67913966bf8d36715dcbdb7b94da53dd"
     }
   ],
   "resourcepacks": [],
