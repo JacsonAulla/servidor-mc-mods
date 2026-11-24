@@ -101,6 +101,12 @@
       "md5": "80a215e2e387de724c5dcaed994073d2"
     }
   ],
-  "resourcepacks": [],
+  "resourcepacks": [
+    {
+      "name": "Invisible Armor Model - 15.zip",
+      "url": "https://raw.githubusercontent.com/JacsonAulla/servidor-mc-mods/main/resourcepacks/Invisible%20Armor%20Model%20-%2015.zip",
+      "md5": "057654407db5d561fe4ea006bba4e24c"
+    }
+  ],
   "config": []
 }
